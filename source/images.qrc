@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>res/test.png</file>
+        <file>res/midrate.jpeg</file>
+        <file>res/x2a.png</file>
+    </qresource>
+</RCC>
